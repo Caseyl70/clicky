@@ -1,5 +1,5 @@
 import React from "react";
-
+import '../App.css';
 function Image(props) {
     return (
         <div className="card">
